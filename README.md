@@ -96,6 +96,4 @@ These dependencies are defined in the `package.json` file and will be automatica
 
 
 
-This README provides a comprehensive overview of the Instagram Clone project. You can download the README.md file below:
 
-[Download README.md](sandbox:/mnt/data/README.md)
