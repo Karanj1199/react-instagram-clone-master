@@ -1,5 +1,5 @@
 
-# Instagram Clone - Full Stack Java Project
+# Instagram Clone 
 
 ## Description
 
